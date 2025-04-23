@@ -1,2 +1,2 @@
 # Ecology-web-site
-Special for Kodland School
+Special for IT STARS
